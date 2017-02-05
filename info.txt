@@ -1,0 +1,2 @@
+Day 1 Tutorial includes Python 1 and Linux shell commands
+Day 2 Tutorial includes Data visualization in Python and GitHub basics
